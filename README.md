@@ -2,6 +2,7 @@
 
 <div align="center">
 
+  [![Vercel Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chronic-care-advocacy-website.vercel.app/)
   ![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Vite](https://img.shields.io/badge/Vite-8.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-v4.3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -13,6 +14,7 @@
   </p>
 
   <p align="center">
+    <a href="https://chronic-care-advocacy-website.vercel.app/" target="_blank"><strong>🌐 Visit Live Website</strong></a> •
     <a href="#-key-features">Key Features</a> •
     <a href="#-tech-stack">Tech Stack</a> •
     <a href="#-project-structure">Project Structure</a> •
